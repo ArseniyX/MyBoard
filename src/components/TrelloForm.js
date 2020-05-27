@@ -16,7 +16,7 @@ const StyledCard = styled(Card)`
 
 const StyledTextArea = styled(Textarea)`
   resize: none;
-  width: 100%;
+  width: 20vw;
   overflow: hidden;
   outline: none;
   border: none;

@@ -1,7 +1,5 @@
-import Icon from "@material-ui/core/Icon";
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
-import styled from "styled-components";
 import { addCard, addList } from "../actions";
 import TrelloButton from "./TrelloButton";
 import TrelloForm from "./TrelloForm";
